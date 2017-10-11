@@ -14,3 +14,5 @@ npm run dev
 # build for production with minification
 npm run build
 ```
+效果图
+![](https://i.ooxx.ooo/2017/10/11/104a8a2c0c43d33924eef60f0ddfc521.gif)
