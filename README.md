@@ -30,7 +30,7 @@ npm run build
 ![](https://i.ooxx.ooo/2017/10/11/104a8a2c0c43d33924eef60f0ddfc521.gif) </br>
 模块：
 Vue-router子路由实现边栏导航
-数据通过promise从后台请求,通过v-for遍历渲染到对应处。
+数据通过promise从后台请求,通过v-for遍历渲染到对应处，立即购买还有完善中。
 ![](https://i.ooxx.ooo/2017/10/11/1247c719ea940d9f3f18b277d6da6b8b.png)</br>
 
 友情提示：数据模拟方法可参考如下：</br>
